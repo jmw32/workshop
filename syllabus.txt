@@ -4,3 +4,5 @@ Day 2 morning: advanced Python
 Day 2 afternoon: git verison control
 
 These are the changes that I made to the syllabus
+Todays workshop was great
+okay
